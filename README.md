@@ -1,6 +1,6 @@
 
 <p align=center>
-<a href="https://discord.com/users/852715447337746442"><img src="https://discord.c99.nl/widget/theme-4/852715447337746442.png" width=50%></a>
+<a href="https://discord.com/users/534752127889834011"><img src="https://discord.c99.nl/widget/theme-4/534752127889834011.png" width=50%></a>
  </p>
 
 ```sh-session
