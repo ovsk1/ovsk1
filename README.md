@@ -7,6 +7,5 @@
 pip install ovski
 ```
 <h1>PROFILE VIEWS;</h1>
-<p align="center"><img src="https://count.getloli.com/get/@:duhix" alt=":duhix" /></p>
 
 <img src="/snake.svg">
