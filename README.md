@@ -1,6 +1,7 @@
 
 <p align=center>
 <a href="https://discord.com/users/534752127889834011"><img src="https://discord.c99.nl/widget/theme-4/534752127889834011.png" width=50%></a>
+ </p>
 
 
 ```sh-session
@@ -12,4 +13,3 @@ pip install ovski
 drop-shadow(0 4px 6px rgba(0,0,0,0.2)); transition: 0.3s;">
   
 <img src="/snake.svg">
- </p>
